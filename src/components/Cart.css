@@ -1,0 +1,200 @@
+.cart-container{
+    padding : 2rem 4rem;
+}
+.card-container {
+    font-weight: 400;
+    font-size: 30px ;
+}
+.shpcart{
+    text-align: center;
+    font-weight: bold;
+}
+.cart-container .titles h3{
+    margin: 2rem 0 1rem 0 ;
+}
+.product-title{
+    margin-left: 80px !important;
+    
+}
+.product-price{
+    margin-left: 700px !important;
+    margin-top: -50px !important;
+}
+.product-quant{
+    margin-left: 1000px !important;
+    margin-top: -50px !important;
+}
+.product-total{
+         margin-left: 1400px !important;
+        margin-top: -50px !important;
+
+}
+/* .cartimg {
+   width: 20% !important;
+   margin-top: 80px !important;
+  
+} */
+
+.cart-product-price{
+    margin-left: 700px !important;
+    margin-top: -70px !important;
+}
+
+.cart-product-total{
+    margin-left: 1400px !important;
+    margin-top: -120px !important;
+   font-size: 20px !important;
+   font-weight: bold;
+    
+}
+.cart-item{
+    border-top: 1px solid rgb(19, 18, 18);
+    padding: 2rem 0;
+}
+.cart-container .titles .product-title{
+    padding-left: 0.5rem ;
+}
+.cart-container .titles .product-total{
+    padding-right:0.5rem;
+    justify-self: right;
+}
+.cart-item .cart-product{
+    display: flex;
+
+}
+.cart-item .cart-product img{
+width: 150px;
+max-width: 100%;
+margin-right: 1rem;
+}
+.cart-item .cart-product h3{
+   font-weight: 400;
+    }
+    .cart-item .cart-product button{
+        border: none;
+        outline: none;
+        margin-top: 0.7rem;
+        cursor: pointer;
+        background: none;
+        color:grey;
+    }
+
+    .cart-item .cart-product button:hover{
+        color: black;
+    }
+
+    .cart-product-quantity{
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        width:130px;
+         max-width: 100%;
+         border:0.5px solid rgb(177, 177, 177);
+         border-radius: 5px;
+         margin-left: 1000px !important;
+         margin-top: -20px !important;
+    }
+    .cart-product-quantity button{
+        border:none;
+        outline: none;
+        background: none;
+        padding-bottom: 10px;
+        cursor: pointer;
+        margin-left: 30px !important;
+        margin-right: 30px;
+        
+    }
+    .cart-product-quantity{
+        padding: 0.7rem 0rem;
+        margin: 70px;
+    }
+    .cart-summary{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;     
+        
+        padding-top:2rem;
+
+        
+    }
+    .cart-summary .clearchat{
+             width:130px;
+             max-width:100%;
+             height:40px;
+             border-radius: 5px;
+             font-weight: 600;
+             letter-spacing: 1.15px;
+             font-size: 20px;
+             color:gray; 
+            
+             cursor: pointer;
+    }
+
+    .cart-checkout {
+        width:270px;
+        max-width: 100%;
+    }
+     .cart-checkout .subtotal{
+        display: flex;
+        justify-content: space-between;
+        font-size: 25px;
+        margin-right: 55%  !important;
+        
+     } 
+     .cart-checkout .subtotal .amount{
+       /* margin-right: 400px !important; */
+      font-weight: 700;
+      
+      
+     
+
+    }
+    .cart-checkout p{
+        font-size: 20px;
+        font-weight: 200;
+        margin: 0.5rem 0;
+    }
+    .cart-checkout button{
+        width: 100%;
+        height: 40px;
+        border-radius: 5px;
+        font-weight: 400;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        background: #4b70e2;
+        color: white;
+        letter-spacing: 1.15px;
+    }
+    .continue-shopping,
+    .start-shopping{
+        margin-top: 1rem;
+        font-size: 25px;
+
+    }
+    .continue-shopping a,
+    .start-shopping a{
+        color:gray;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+
+    }
+    .continue-shopping a span,
+    .start-shopping a span{
+        margin-left: 0.5rem;
+
+    }
+
+    .cart-empty{
+        font-size: 20px;
+        margin-top: 2rem;
+        color:rgb(84,84,84);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .btn3{
+        margin-left:90px !important;
+    }
+

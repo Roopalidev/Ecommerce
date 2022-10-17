@@ -1,0 +1,77 @@
+.home .home1{
+ width: 100% !important;
+ max-height: 100% !important;
+}
+.backimage{
+    min-height: 680px !important;
+}
+.cardtitle1{
+    margin-left: 130px !important;
+    width: 400px !important;
+    margin-top: 40px;
+   
+}
+.cardtitle2{
+    margin-left: 150px !important;
+    width: 400px !important;
+    margin-top: 40px;
+}
+.cardtitle3{
+    margin-left: 150px !important;
+    width: 400px !important;
+    margin-top: 40px;
+}
+.cardimg{
+    border-radius: 100%;
+}
+.cardtitle{
+    text-align: center;
+}
+.cardbtn{
+    margin-left: 90px;
+    background-color:  rgb(239, 195, 18);
+    border-radius: 20px;
+    text-align: center;
+    width: 180px;
+   
+}
+.cardtitle4{
+    margin-left: 700px !important;
+    margin-top: 40px !important;
+    width: 400px !important;
+   
+}
+.each-slide{
+    width: 100% !important;
+    height: 500% !important;
+}
+.backimage{
+    width: 100% !important;
+}
+.d-block1{
+    height:600px;
+}
+.btn3  {
+    margin-left: 350px !important;
+    height: 40px !important;
+    font-weight: bold;
+    font-size: 20px ;
+    margin-top: 10px;
+    border-radius: 10px !important;
+    color:  white;
+    
+
+
+
+}
+.btn4 {
+    margin-left: 500px !important;
+    height: 40px !important;
+    font-weight: bold;
+    font-size: 20px ;
+    margin-top: 10px;
+    border-radius: 10px !important;
+    color:  white;
+     
+
+}

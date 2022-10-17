@@ -1,0 +1,53 @@
+.buttons .btns1{
+    margin-left: 200px !important;
+    background-color: rgb(143, 197, 254) ;
+    border-radius: 10px !important;
+    border-color: rgb(191, 191, 249);
+    height: 40px;
+    width: 120px !important;
+    margin-top: 20px;
+    
+
+}
+ .btns2{
+    margin-left: 60px ;
+    width: 90px !important;
+    background-color: rgb(143, 197, 254) ;
+    border-radius: 10px !important;
+    border-color: rgb(191, 191, 249);
+    margin-right: 0px !important;
+    height:40px;
+    width: 120px !important;
+}
+  .btns3{
+    background-color: rgb(143, 197, 254) ;
+    border-radius: 10px !important;
+    border-color: rgb(191, 191, 249);
+    
+
+}
+ .btns4{
+    margin-left: 90px !important;
+    margin-right: 50px !important;
+    background-color: rgb(143, 197, 254) ;
+    border-radius: 10px !important;
+    border-color: rgb(191, 191, 249);
+}
+.row{
+     text-align: center;
+     margin-top: 30px;
+}
+.container{
+    margin-right: -800 !important;
+    text-align: center; 
+   
+}
+.container .cardbody{
+    margin-inline: 350px !important;
+    margin-top: 60px !important;
+    text-align: center ;
+    display: flex;
+}
+.buttns .btn1s{
+    margin-right: 30px !important;
+}
